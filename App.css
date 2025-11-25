@@ -1,1 +1,10 @@
 
+/* src/App.css */
+.container {
+  margin-top: 50px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 15px;
+}
